@@ -1,5 +1,5 @@
-__title__           = "Analyzes all selected Fill Pattern and their area."
-__doc__             = """Version = 0.1
+"Analyzes all selected Fill Pattern and their area."
+Version = 0.1
 
 Date                = 03.DEC.2023
 Python              = 3.0-3.6
@@ -24,5 +24,5 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 To-Do:
 - Name and save as Excel file
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-Author:     Doan, Manh Trung (DMT)
-LICENSE:    CC BY-NC-SA"""
+Author:     DMT
+LICENSE:    CC BY-NC-SA
